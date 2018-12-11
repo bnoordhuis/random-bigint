@@ -1,0 +1,23 @@
+{
+	"name": "random-bigint",
+	"version": "0.0.1",
+	"description": "Generate random bigints.",
+	"keywords": ["bigint", "random"],
+	"homepage": "https://github.com/bnoordhuis/random-bigint",
+	"author": {
+		"name": "Ben Noordhuis",
+		"email": "info@bnoordhuis.nl",
+		"url": "http://bnoordhuis.nl/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/bnoordhuis/random-bigint.git"
+	},
+	"engines": {
+		"node": ">=10.0.0"
+	},
+	"license": "ISC",
+	"scripts": {
+		"test": "node test"
+	}
+}
